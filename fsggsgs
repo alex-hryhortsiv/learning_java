@@ -1,0 +1,25 @@
+[33mcommit 9b3c4b9ce29e8a53562215896316718299b6e5ba[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: alex <>
+Date:   Fri Mar 14 20:45:54 2025 +0200
+
+    Initial commit
+
+[1mdiff --git a/.gitignore b/.gitignore[m
+[1mindex 6b468b6..8ee4623 100644[m
+[1m--- a/.gitignore[m
+[1m+++ b/.gitignore[m
+[36m@@ -1 +1,2 @@[m
+ *.class[m
+[32m+[m[32mtarget/[m
+[1mdiff --git a/HelloWorld.java b/HelloWorld.java[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/README.md b/README.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/file1 b/file1[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/file2 b/file2[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
